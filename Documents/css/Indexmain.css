@@ -1,0 +1,16 @@
+.TempoIndic
+{
+    text-align: center;
+    
+font-size: 2em;
+}
+
+#importante{
+    text-decoration:  underline;
+}
+a:link{
+color:bleu;
+}
+a:visited{
+color:green;
+}
